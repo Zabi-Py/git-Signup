@@ -1,0 +1,4 @@
+FirstName,ErrorMessage,LastName,ErrorMessage,Department,ErrorMessage,Username,ErrorMessage,Password,ErrorMessage,ConfirmPassword,ErrorMessage,Email,ErrorMessage,ContactNo,ErrorMessage
+,First name is a mandatory field and cannot be empty,,Last name is a mandatory field and cannot be empty,,,,User name is a mandatory field and cannot be empty,,Password is a mandatory field and cannot be empty,,ConfirmPassword is a mandatory field and cannot be empty,,Email is a mandatory field and cannot be empty,,
+0,Invalid input,2,Invalid input,35,Invalid input,Testusr,Username should not be less than 8 characters,TestPwd,Password should not be less than 8 characters,Test@Pwd,Password not matching,z.com,Email ID is invalid,78530,Contact No is invalid
+a,Invalid input,b,Invalid input,abc,,TestUser,Username already exists,abc123,Password is invalid,123___,Password not matching,@testledi,Email ID is invalid,785962635,Contact No is invalid
